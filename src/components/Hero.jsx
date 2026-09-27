@@ -36,13 +36,13 @@ export default function Hero() {
         </MagneticLink>
       </div>
       <div className="hero__links">
-        <MagneticLink href="mailto:yangzinchuskit85@gmail.com">
-          yangzinchuskit85@gmail.com
+        <MagneticLink href="mailto:yangzin.chuskit97@gmail.com">
+          yangzin.chuskit97@gmail.com
         </MagneticLink>
-        <MagneticLink href="https://github.com/YOUR_USERNAME" target="_blank" rel="noreferrer">
+        <MagneticLink href="https://github.com//Yaanzn" target="_blank" rel="noreferrer">
           GitHub
         </MagneticLink>
-        <MagneticLink href="https://linkedin.com/in/YOUR_USERNAME" target="_blank" rel="noreferrer">
+        <MagneticLink href="https://linkedin.com/in/yangzin-chuskit" target="_blank" rel="noreferrer">
           LinkedIn
         </MagneticLink>
       </div>

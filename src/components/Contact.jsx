@@ -7,8 +7,8 @@ export default function Contact() {
         <h2 className="footer__title">Let's talk</h2>
         <p>
           Based in Pune, India.{" "}
-          <a href="mailto:yangzinchuskit85@gmail.com" data-cursor="hover">
-            yangzinchuskit85@gmail.com
+          <a href="mailto:yangzin.chuskit97@gmail.com" data-cursor="hover">
+            yangzin.chuskit97@gmail.com
           </a>{" "}
           · 9622208346
         </p>
