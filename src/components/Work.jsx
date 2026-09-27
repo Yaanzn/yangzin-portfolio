@@ -3,19 +3,19 @@ import Reveal from "./Reveal.jsx";
 // EDIT THIS DATA — everything you show lives here.
 const CLIENT_PROJECTS = [
   {
-    name: "Client Project Name",
+    name: "Baxter AAT",
     role: "Front End Developer",
     description:
-      "One or two sentences on what you built and the problem it solved. Client work often can't be linked publicly — that's fine, this is the space to describe it in your own words.",
-    tech: ["React", "REST API", "CSS"],
+      "1. Developed an interactive 3D web-based sales tool for Baxter’s AAT surgical table using **React.js and WebGL<br> 2. Integrated an interactive 3D model with 360° rotation, clickable product interactions, voice-over, and captions to demonstrate product features.<br>3. Built the solution with a scalable architecture, including provisions for future translations and content expansion.<br> 4.Collaborated closely with cross-functional teams and technical stakeholders to understand requirements and deliver a product-focused sales experience.",
+    tech: ["React", "webGl", "CSS", "RestAPI"],
   },
 ];
 
 const PUBLIC_PROJECTS = [
   {
-    name: "Project Name",
-    description: "What it does and why you built it.",
-    tech: ["JavaScript", "HTML/CSS"],
+    name: "Alamar Bioscience – WordPress Website Development",
+    description: "Developed a responsive and interactive WordPress website for Alamar Bioscience.Built a user-friendly WordPress dashboard, customized to the client’s specific content management and business requirements. Implemented interactive web experiences and optimized the site for usability and maintainability",
+    tech: ["Wordpress", "PHP" , "HTML/CSS" , "Javascript"],
     live: "",
     code: "",
   },
